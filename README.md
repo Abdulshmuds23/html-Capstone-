@@ -1,2 +1,2 @@
-# html-Capstone-
+# html-Capstone
 My Resume
